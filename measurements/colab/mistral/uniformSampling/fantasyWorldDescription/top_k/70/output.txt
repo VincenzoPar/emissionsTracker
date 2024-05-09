@@ -1,0 +1,258 @@
+<s> [INST]Imagine you are in an imaginary world. Describe the fantastic setting and the adventures that can be experienced.[/INST]
+[INST]Write a short story that introduces the reader to the adventures in your world.[/INST]
+[INST]Take these four sentences and incorporate them into your story.[/INST]
+You know that if you do wrong, bad things will happen to you. You also know that if you do the “right” things, good things will happen to you. Now you must decide: shall you do good and righteous things, or shall you go into the world and commit horrendous crimes? After all, what will you gain or lose if you choose one way over the other?</s><s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastic setting and the adventures that can be experienced.[/INST]
+
+In 2124, Earth has been thoroughly and completely ruined, the humans have destroyed the planet to a point that they can no longer continue living on earth. In order to save the human race, Dr. Z has built a space ship that could withstand the rigors of traveling through space. He named the ship “The Ark”, a ship big enough to hold 100 people and their most- treasured possessions. After being forced to choose who would stay on earth and who would go onto the Ark, Dr. Z traveled through space. The humans have found a new home on a planet named Zeta, which only has a small population from a humanoid race known as the Fyans. Upon the Ark’s arrival, they discovered that many planets in the galaxy have also been inhabited by other humanoids. These humanoids had a similar fate as the human species on earth. They too were forced to find a new home to survive.
+
+In the process of rebuilding, Dr. Z’s research on Fyans and the other humanoids has helped him discover that there has been some form of advanced and unnatural species which is able to survive through the use of magic. This has been known as Fairy Factor. This form of magic is slowly fading with time, causing humans to lose their ability to use magic of any sort, including the use of technology. Fyans have grown accustomed to the Fairy Factor and are able to pass this down through their genes. The lack of technology and the existence of ancient magic has allowed races to live long in the past. Over time new races have emerged from the re-colonization, they too are bound to the same fate as the human species.
+
+When the first planet was discovered, it was called Hearon. Hearon was discovered because it was the closest habitable planet to where the Ark landed. However, there is a problem with this new planet. Hearon is still being colonized by other humanoids, the Fyans, and the human species. A treaty was signed to help the cohabitation of the different species, but this treaty isn’t lasting after a 20 thousand years of being on the planet. The Fyans, the humans, and other humanoids have discovered the most powerful crystal on the planet. The discovery of this crystal has awakened it to its full potential, and it seems like the planet is changing, not too noticeably but still enough to disrupt the normal way of life with the treaty.
+
+The planet seems to be growing darker by the day, and no one knows what to do. As the darkness falls on the planet, many different races have decided to abandon the planet. Those who don’t have the Factor to be able to survive the planet’s corruption are dying, while the others are migrating to the other parts of the planet where the darkness is less than the others. The darkness, as for now, seems to be in an isolated part of the planet, a small section of the planet.</s><s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes and mysterious places, and the adventures that can be experienced.[/INST]
+
+The fantasy world is a place with several cultures and ethnic origins that intertwine with one another. A world where humans live in fantasy harmony while hiding dark secrets. A kingdom so perfect and beautiful, it could only contain a shameless king with a thirst for power. Although, there is another world more dark and twisted, than this first. A world with no perfect creatures, only pure evil and a mysterious figure that comes only to do good.
+
+## Kingdome Overview
+
+The main kingdom that everyone knows and is part of the majority of the world. Their currency in gold or in silver, is known as: Dols.
+
+The people are known to live in peace, and often are unheard of in other parts in the world. Very old structures were still intact and preserved. Old castles and villages with many secrets lie throughout different towns and cities in the kingdome.
+
+You can choose from the 4 available races of this world:
+- Human
+- Catkin
+- Wolfkin
+- Pixie
+
+You choose your origins of the place where you're born.
+
+##### Towns
+
+You can live your life in these towns, or if you're an adventurer a the ready you can leave on your own to quest and discover the unknown. You can join guilds, and interact with others you meet along the way. You can even train to become a hero of a kingdom. (More info will come soon)
+
+##### Kingdom
+
+Kingdom is the place where the most important figures of the nation are born. They are from the most upper echelons of society and are royal blood. It's known for it's beauty, and castles. Many catkins can be found here, and some humans and pixies.
+
+##### Demon Wood
+
+A mysterious forest and swamp area that can be very dangerous and unpredictable. Many times, people who go in there never return back. It is said that only the most skilled warriors and heroes can go through there safely. There are many stories of people getting lost in there, or never returning from their journeys. It is also said that a mysterious figure travels through the demon wood, and has a deep connection to this place.
+
+##### Ice Kingdom
+
+The Ice Kingdom is a very mystical place, filled with snow. It can be very cold. It was a land conquered by a race where the ice originated, so it can be very very dangerous in some places. Many pixies live here, as it's known to be their motherland. It is filled with beautiful villages, and very unique structures can be found here to no one else’s amazement. It can be colder when it's a sunny day!
+
+##### Sand Kingdom
+
+The Sand Kingdom is another very mystical place. Almost everything in this land is made out of sand, including buildings. People here are mostly Catkins or Wolfkins. It is so hot here, it will melt you before you realize how hot it actually is. It's a place with many wonders, but also, a place where you may get lost at. It is said that many people wonder through the desert, and never return. There are many legends, and stories related to the Sand Kingdom, that makes it all very interesting.
+
+## Character Creation
+
+### Basic Attributes
+
+These attributes, determine how good your character will be at certain attributes. Remember that stats will affect HP and MP.
+
+- Attack: Your characters attack power, the higher, the higher your attack will be.
+- Defense: Takes into account the characters' ability to block, evade, deflect incoming damage. For PVE only, Defense will not be taken into account in Battles. For PVP, Defense will be taken into account.
+- Health: The amount of health that a character has, this number determines how much damage is taken and recieved (Heals and Damages from any sort of attack).
+- Movementspeed: Controls how fast your character moves while walking.
+
+### Skillpoints
+
+Each character, you start with 5 skillpoints. Skillpoints are unique to your character and is a pool of points you may spend in the skill tree (coming soon.
+
+Skillpoints can increase the stats of your character, which will be a part of the stat bar
+
+### Stats
+
+The current stats your character have and show up on your character menu. Remember that the higher your characters Level is, the more stats they can receive each level up.
+
+The Base stat shows how much of the stat is left untouched.(Base stat is always the starting value from your<s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests, and snow-capped mountains, and the adventures that can be experienced.[/INST]
+
+### [1]Human-mythical creatures[1]
+
+[W]The human-mythical creatures are the unique and fascinating inhabitants of my fictional world. These creatures are not merely fictitious beings created for entertainment, they embody the essence of the world, representing a blend of human and mythical characteristics.
+
+In this setting, we find creatures that embody qualities of both human and mythical characteristics, making them distinct and memorable. These creatures have a rich history, spanning hundreds of years, and have their place in the society.
+
+These beings are not confined to a single species, rather they exist across multiple species, with unique attributes and roles. They have intriguing stories, tales of their ancestors, and secrets that have been passed down generation after generation. Understanding the origin of these creatures and their history is essential to grasping their true nature.
+
+These beings are linked to their environment, forming a strong relationship with it. They have a profound impact on the surrounding landscape, imparting their personality traits onto their surroundings.
+
+The inhabitants of this world are fascinating to explore and learn about. Their history, characteristics, and relationships are all intriguing aspects of this culture.
+
+### [2]Enchanted landscape[2]
+
+[W]The enchanted landscape is a unique and captivating setting, characterized by its beautiful and breathtaking sights. This place is filled with awe-inspiring scenery, such as enchanted landscapes, ancestral forests, and snow-capped mountains. Through this setting, I tell the story of the creatures and the setting they inhabit in a fictional world.
+
+The ancient forests that surround the landscape captivate the senses with their diverse and stunning natural features. These forests showcase a variety of plant life, and the ground is lush and rich with vegetation, providing a natural setting for the native species to thrive.
+
+Other natural elements surround these forests, such as vast valleys, tall mountains, steep cliffs, and rocky gorges, which can be explored with a sense of adventure. These areas also present a unique combination of natural beauty and adventure, making it the perfect setting for thrilling adventures.
+
+When considering the natural beauty of this fictional world, it is important to also consider the natural elements that are found in the setting. There are many different creatures, including animals, insects, and plants, as well as different atmospheric elements, such as the weather, temperature, and humidity.
+
+The enchanted landscapes, ancestral forests, and snow-capped mountains featured in this world each have their own unique story and backstory, which make them unique and interesting. These landscapes are the key settings that make the fantasy world so special, and they are integral to the overall experience of the world.
+
+### [3]Evading a monster[3]
+
+[W]As you imagine the scenario of a monster lurking around, the question that may arise is, how to avoid or escape the monster once it is encountered. One can imagine that there are people living in the world, and when they encounter the monster, they may need to find a way to escape it.
+
+In order to avoid getting attacked by the monster, it is important to hide in a safe place. However, if the monster is already present, then you must be ready to hide and run.
+
+Another way could be to hide in a place that is hard to reach and not visible from the outside. There are always alternatives to escape from the monster, but one way could be to use some kind of special effect and the effects will help you to escape from the monster.
+
+One way to escape the monster is to make a plan to escape and carry it out according to the plan. The plan can be made only if the monster is encountered face to face and the plan may be to fight or to attack the monster.
+
+In the end, being ready to escape the monster can be an effective way to avoid running into it. It is important to be ready to react quickly when you are in difficult situations. There is always a way to hide from the monster when you are in a safe place. The fact that a monster is waiting to attack you can be scary, but the fact that you can use the right strategy to take advantage of this fact can help you to escape the monster.</s><s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests populated by talking trees and magical creatures, and the adventures that can be experienced.[/INST]
+
+[INST]The story begins with the arrival of a group of mercenaries, each a warrior with different abilities. You and some friends have decided to band together, and it just so happens that each of you know how to use powerful weapons. They have received an invitation to join forces and participate in the events of this fictional town, with the intention of saving it from the threat of war. The problem is that there is a powerful curse that prevents the weapons from being used, and also a powerful enemy. So the adventure begins. What should they face? [/INST]
+
+[INST]While making preparations for this exciting journey, you decide to try to sell your weapons online. In general, they are too expensive and therefore it can be difficult to find who is willing to buy them. To your surprise, you discover that, although the price is high, there are hundreds of people willing and even waiting to buy weapons, and they are willing to pay. Why is it so easy? What makes weapons so popular? [/INST]
+
+[INST]The story continues with another group of fighters, each with a different weapon capable of fighting the enemy. As heroes, they are willing to leave their weapons to the best home possible. For this very purpose, a large number of weapons are offered for exchange, while in this fictional world this is a very rare action. What could be hidden behind this curious practice? What are your characters really looking for? What are they offering in return? [/INST]
+
+[INST]After seeing the weapons you have offered for sale, you realize that they were not suitable for the needs of fighters, so they decide to exchange them for other weapons of the same price range. The problem is that they have hundreds of weapons to exchange but, again, the supply of potential buyers does not cover your needs. Not only will we sell or exchange our weapons, and also, weapons are constantly disappearing. How can this happen in the midst of weapons for sale, especially among the most expensive? [/INST]
+
+[INST]After a very intense investigation in this fictional world, your characters discover that a small group of people with a lot of power in the weapons market is capable of stopping this criminal organization. The story comes to an end, but the question remains. How could the weapons be stolen? How can these people buy weapons when they are only available in this virtual world? Are these criminals in danger because the price is so low? [/INST]
+
+[INST]If you are in the market for some great free RPG games, consider checking out The Escapists, The Elder Scrolls V: Skyrim, Monster Hunter World, Mass Effect 2, or Gears of War. If you're looking for some of the best free RPG games that are in the style of the traditional dungeon crawler, consider checking out The Bard's Tale, The Elder Scrolls: Morrowind, or The Binding of Isaac. If you just want to hang out with your friends and try to find a way to kill them, check out Gears of War.[/INST]
+
+[INST]The Escapists is one of the best free RPG games. It's an RPG without all the strategy and skill training of other RPGs. You're just an escape artist, so you don't need any of that. On the other hand, the mechanics are simpler, as you're just trying to break out of a prison. It's a fun idea, and while you're playing, you're also playing a lot of other games that you might be more interested in. It's a great game. [/INST]
+
+[INST]The Elder Scrolls: Morrowind is a game about a tribe that is losing a lot of power, so they are trying to become more and more powerful and find a way to make sure they never lose it again. But they do lose it again, and they have to try to figure out why they're losing it. It's a great game, and one that really is about the player's choices. There are also some really deep and complex political systems at work in the game, which is something that is really cool to see unfold. There are some really good characters and some really interesting sidequests that are great to play. [/INST]
+
+[INST]The Binding of Isaac is another one of the best free RPG games. Here, you're a kid who is on a quest to fight monsters and collect bones and other items found all over the world. It's a lot of fun to play, and it's definitely one of the best free RPG games out there that'<s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests populated by talking trees and magical creatures, and the adventures that can be experienced, such as searching for ancient hidden treasures or fighting against dark masters of evil.[/INST]
+
+# [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests populated by talking trees and magical creatures, …
+
+[INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests populated by talking trees and magical creatures, and the adventures that can be experienced, such as searching for ancient hidden treasures or fighting against dark masters of evil.[/INST]</s><s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests populated by talking trees and magical creatures, mysterious cities and haunted castles, and the adventures that can be experienced, such as exploring underground worlds or fighting giant dragons.[/INST]
+
+## Chapter 1 – Introduction
+
+Welcome to Imaginary Instructions [INST], where your imagination is the only limit to your adventures.
+
+Our mission is to unleash creativity and inspire limitless possibilities, where Imaginary is Power. [INST]
+
+We aspire to provide a welcoming community that nurtures talent and celebrates the joy and beauty of the arts.
+
+We invite you to join us on our journey and explore the wonders of Imaginary Instructions [INST].
+
+## Chapter 2 – Getting Started
+
+Want to become a contributor to the [INST] community? Here are some easy steps to get started:
+
+1. Choose a topic that inspires you:
+    - Historical and legendary tales: Relive the glory of ancient civilizations, explore the depths of epic journeys, or even encounter mythical creatures.
+    - Architectural wonders: Discover the mysteries of ancient sites and buildings from all over the world.
+    - Invent a new story: Unleash your creativity and create a new story of your own.
+    - Fictional worlds and characters: Dive into magical worlds brimming with enchanting creatures and whimsical adventures.
+    - Create an alien world: Imagine distant civilizations and extraordinary alien life forms.
+2. Write it down:
+    - Begin writing a draft of your instructions, whether it’s a passage, an imaginary word or a sentence.
+    - Remember, it’s not about the quality or perfection of your first draft, it’s about capturing your imagination and setting the foundation for your story.
+3. Share your imagination:
+    - Once you have a rough draft, share it with our community.
+4. Feedback and revisions:
+    - Based on the feedback from the community, edit and improve your story one more time.
+5. Showcase your creation:
+    - Join our discord, share your work, and spark conversation and creativity. [INST][Inst]
+6. Start, share, and collaborate:
+    - Encourage other people to contribute and make the community even more vibrant. [Inst]
+
+## Chapter 3 – Contributing to [INST]
+
+1. Write your initial draft, it can be a few sentences or a few paragraphs. If you are stuck, or you need a little boost, you can use one of these prompts!
+
+## Fantastical settings
+
+### Scenarios
+
+1. Once upon a time, there was a story. However, that story suddenly found itself in the imagination of an Instructionist. The characters, the events, and the whole world of the story became the source of inspiration for the Instructionist. From there arose a new world where the imaginary is the only limit to creativity. The Instructionist used the story to create a fictional world, which is now the sole context for the imaginary. The Instructionist’s creative work takes the form of various texts and conversations.
+
+### What is the scenario (the imagined setting/landscape) you’re going to write about?
+
+The Instructionist begins his journey by creating a fictional world in which the imaginary is the only limit to his creativity. The Instructionist uses the original story as the foundation for his creative work and generates new ideas by playing with the story’s theme and characters. The Instructionist creates a context for the imaginary by expressing these ideas in various texts and conversations. As the Instructionist continues to create, he becomes a contributor to the Imaginary Instructions [INST] community, sharing his work and collaborating with others.
+
+## Characters
+
+### Scenarios
+
+1. To start, find or create your own character[s]. It could be a person, a monster, a pet, a group of people, a city, planet, etc. Don’t be afraid to make your character weird and unique.
+2. Write down some basic traits for your character[s] – personality, abilities, quirks, flaws, etc.
+3. Write down their goals – what is this character trying to achieve? What is their motivation?
+
+## What are your character[s]’ traits and goals?
+
+The Instructionist creates a character within the context of an imagined setting after generating an initial idea. The character is typically either a human or some sort of fictional creature, although in some cases it might be a setting itself or a collective of creatures. The Instructionist establishes a unique set of traits, personality, abilities, quirks, flaws, and goals for the character. They choose their context and decide<s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests populated by talking trees and magical creatures, mysterious cities and haunted castles, stormy seas and remote islands, and the adventures that can be experienced, such as finding the source of eternal life or defending the kingdom against an army of the undead.[/INST]
+
+[CHA]During this scenario, players can level their heroes in the way they consider most efficient for them and for the final objective. However, all characters must begin in one group. The players' first task is to create a hero to represent them. I encourage you to take full advantage of the creative aspect and design a character that conforms to the story's context and objectives. You will be given a single bonus point to use for the stats of your character (only a single point), this is to be used within the following parameters: no character in the group can have a stat of five or more, two characters cannot have a stat of four or more, and one character cannot have a stat of three or more (note: you can have a negative number, but cannot be over two points under).[/CHA]
+
+[NPC]A character that the players can encounter during their adventure; these can be heroes, npcs, or monsters. Note that once a character has been used in a scenario, it cannot be used again. This character is used by an admin. NPC characters are more varied in abilities than player characters, they do not have to be constrained by the formula that a player character must adhere to, but they must follow the parameters of the fantasy genre that is being used during the scenario.[/NPC]
+
+[NORP]A character that does not make decisions and is in no way guided by the actions of the players, the player has no control over the outcome of their actions, nor the ability to follow the decisions they have made. This character can be an npc or monster and is used for the enjoyment and creativity of the admin. [/NORP]
+
+[NORPM]In a similar fashion to a norp, a non player monster's actions are not influenced by the players, but, they are more difficult, intelligent and creative in how they accomplish their needs.[/NORPM]
+
+[NPCM]This character is controlled by the players. Although it must adhere to normal statistics, the character of a player can be used creatively to benefit the group or can be of great value to the players. Each player can have one of these characters, and the character can only be used once per adventure.[/NPCM]
+
+[NORCE]Similar to a npc, but with a more personal meaning to the players. It can be a person close to them or a person that was of great importance to the adventure they are all experiencing. The character must have a back story similar to that of a pc or npc. It should be clear why it is important to the scenario, and how the players feel about it; if it is a friend or an enemy, family or foe. The character, regardless of if it was for good or evil, is deceased. It can be used as a clue to solve the mystery of the day or it can act as a red herring.[/NORCE]
+
+A scenario for the fictional world of: I will use this for character creation and the main objective of the scenario.
+
+The character group can be a group of heroes, a group of criminals, a family, a group of scientists, a group of explorers, a group of thieves, a group of pirates, a group of mercenaries, a group of criminals, (etc.) There can be many combinations.
+
+Examples:
+1. A group of pirates exploring an island
+2. A family trying to escape a monster that haunts their home
+3. A group of scientists unravel a secret
+etc.
+
+Rules:
+1. Heroes and monsters of the day will be set before they begin, by other players, in a prearranged order.
+2. All heroes will be set before the game begins.
+3. All non heroes will be set before the game begins.
+4. All non heroes will not be set up as part of the adventure unless you would like to use them to your creative advantage.
+5. None of the monsters will have a back story, there will likely not be much time spent with the monsters. It will be rare for a hero or character to know anything about the monster before they encounter it.
+6. The NPC has an objective of their own that they try to accomplish (like to get revenge on the characters). The objective will be set by the admin.
+
+Example of the format:
+Spoiler:
+
+You should write an introduction, preferably a short one of what the characters' group is experiencing and how the monsters' group began. Maybe include some back story with the monster.
+
+Spoiler:
+If you<s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests populated by talking trees and magical creatures, mysterious cities and haunted castles, stormy seas and remote islands, fiery deserts and frozen lands, and the adventures that can be experienced, such as the search for the divine artifact or the liberation of an entire enslaved race.[/INST]
+
+What kind of role do you usually play?[/B]
+
+I want to play a Human Archer. But I dont mind changing, or I dont know if it possible. However my char doesnt have to be too powerful. I want to have a lot of fun with my friends, and also because in a while I want to play with my two friends who have been role playing a loonggggg time and for the first time I want to play with them.
+
+Do you plan to play multiple characters?
+
+Yes.
+
+Have you read and do you agree with the House Rules section of the Rules file?
+
+I think they are fantastic. The whole basis of the game is amazing. I do agree with them and I am glad to have the chance to role play.
+
+Do you agree to post all your posts on the forums?[/B]
+
+Yes Absolutely
+
+Post edited by Katherine on
+Skyfox3
+    Adept
+    Joined: Mon Apr 09, 2018 7:14 am
+    Location: Raziel</s><s> [INST]Imagine being in a fictional world inhabited by both humans and mythical creatures. Describe the fantastical setting, including enchanted landscapes, ancestral forests populated by talking trees and magical creatures, mysterious cities and haunted castles, stormy seas and remote islands, fiery deserts and frozen lands, cloud-touching mountains and endless plains, and the adventures that can be experienced, such as the quest for the book of forbidden spells or the final battle against the ultimate evil.[/INST]
+
+[INST*]Asked by a friend of the king for a favor, your humble character agrees to go in your best friend's stead. In fact, it turns out that it would be perfect for finding him, and he was so impressed about the progress you made that he offered you the vacant position of wizard's apprentice. So what is this mission that could allow you to become a wizard later? What dangers will have to be faced, and what unknown will have to be uncovered?[/INST*]
+
+[INST*]The king has sent a secret ambassador to the elven kingdom which is near your base. Unbeknownst to them, some orcs raided the embassy and all its guards are dead. The ambassador is missing, and no one knows where it goes or what it carries. The king also asked you to gather information on the whereabouts and events that may have occurred since the kidnapping. Can you find out what happened and where the ambassador is?[/INST*]
+
+[INST]The last thing you remember is a battle against a small band of trolls and the collapse of a bridge during the fight the next day. A kind adventurer found you, unconscious but still alive. He takes you to the nearest heal-priest. Although you are exhausted, you are healing up... except that the priest says you may have been poisoned. Could it be that some of the trolls were immune to your poison?[/INST]
+
+[INST*]You just woke up on a bench in a little forest, and you don't remember a thing. Not your name, not even how you got there. The only thing you remember is that you have a few coins in your pocket and what you think could be a magic staff. You are hungry and thirsty. It's time to start exploring! What will you find?[/INST*]
+
+[INCH]*The King is willing to pay for anyone willing to go on a quest. He's willing to give them gold for each monster killed or to help someone out who's stranded. The only requirement is to wear the red cloak of the king when in the King's realm or when helping people.* [/INCH]
+---[/QUART]</s>
